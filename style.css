@@ -1,0 +1,24 @@
+div{
+    width: 200px;
+    height: 100px;
+    background-color: blueviolet;
+    padding: 20px 30px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+}
+input{
+    width: 150px;
+    margin-top: 10px;
+
+}
+button{
+    margin-top: 10px;
+    width: 160px;
+}
